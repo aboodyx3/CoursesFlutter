@@ -13,7 +13,7 @@ class ProfileScreen extends StatelessWidget {
             children: [
               CircleAvatar(
                 backgroundImage: NetworkImage(
-                    "https://scontent-hbe1-1.xx.fbcdn.net/v/t1.0-9/66815023_2431453233756515_7296940034773483520_n.jpg?_nc_cat=103&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeGQtDXjM1fcU0tMP1vSU_oyGlXoFdBR8cUaVegV0FHxxVFm-H2OEk4sTVkAdP8su66MY1jXrpfoqtCNLnPtaJnI&_nc_ohc=FbnUYXR8hcgAX_mHEdr&_nc_oc=AQknvDXK0FrFWcqkUPSgtvxukyWbjSYYYwolG-BMiqVoELAljKcGCl_HbwIh-IU68jg&_nc_ht=scontent-hbe1-1.xx&oh=cde04ca3b1969a622df9f6fcef2730c6&oe=602B074B"),
+                    "https://scontent-hbe1-1.xx.fbcdn.net/v/t1.0-9/146220650_2908719269363240_66804566686350728_o.jpg?_nc_cat=101&ccb=3&_nc_sid=09cbfe&_nc_ohc=eBTohsQq8KcAX_Q3C0N&_nc_ht=scontent-hbe1-1.xx&oh=d598c0dec9e0d813296e9998ea862138&oe=605AA63B"),
                 radius: 40,
               ),
               SizedBox(

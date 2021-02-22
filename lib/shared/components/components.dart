@@ -107,9 +107,12 @@ Widget defaultTextForm(
 Widget logo() => Column(
       children: [
         Container(
-            height: 100,
+            height: 150,
             width: double.infinity,
-            child: Image.asset('assets/images/rm.png')),
+            child: Image.asset(
+              'assets/images/cs.png',
+              fit: BoxFit.fill,
+            )),
         SizedBox(
           height: 30,
         )
